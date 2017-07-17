@@ -1,0 +1,17 @@
+setTimeout (quiz function, time taken for quiz measured in milliseconds)
+
+declare quiz function 
+{
+
+
+
+}
+
+
+
+
+
+limited time to complete quiz
+player can only choose one choice for the quiz
+include visual countdown for quiz (display the variable in the setTimeout function divided by 1000)
+show number of questions answered correctly and incorrectly (keep a var count that only calculates at the end)
